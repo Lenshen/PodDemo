@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+//注释
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
